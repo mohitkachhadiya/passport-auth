@@ -1,0 +1,2 @@
+nodemon --exec babel-node src/index.js
+    // "build": "babel src/index.js --out-file index-compiled.js",
